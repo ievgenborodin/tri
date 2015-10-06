@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Color Picker</title>
+  <title>Tri</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
   <link rel="shortcut icon" href="css/tri.ico" />
