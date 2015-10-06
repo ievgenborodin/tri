@@ -67,10 +67,10 @@ body{
 #samples{
     padding-bottom: 10px;
 }
-.pre-logo{
+.sample{
     opacity: 0.4;
 }
-.pre-logo:hover{
+.sample:hover{
     opacity: 0.8;
 }
 .active{
@@ -131,7 +131,7 @@ body{
     #samples{
     	margin-bottom: 0.7em;
     }
-    .pre-logo{
+    .sample{
     	padding-left: 0.2em;
     	padding-right: 0.2em;
         padding-bottom: 0.3em;
@@ -152,14 +152,14 @@ body{
     #samples{
     	margin-bottom: 0.7em;
     }
-    .pre-logo{
+    .sample{
     	padding-left: 0.3em;
     	padding-right: 0.3em;
     }
 }
 
 @media(min-width: 630px){ 
-    .pre-logo{
+    .sample{
     	padding-left: 0.4em;
     	padding-right: 0.4em;
     }
@@ -190,7 +190,7 @@ body{
         padding-left: 2em;
         padding-right: 2em;
     }
-    .pre-logo{
+    .sample{
     	padding: 0.5em 0.8em 0.3em;
     }
     .save{
@@ -199,7 +199,7 @@ body{
 }
 
 @media(min-width: 1210px){ 
-    .pre-logo{
+    .sample{
     	padding: 0.5em 1.3em 0.3em;
     }
 }

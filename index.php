@@ -7,8 +7,7 @@
   <link rel="shortcut icon" href="css/tri.ico" />
   <link href="css/bootstrap.min.css" rel="stylesheet" />
   <link href="css/style.css" rel="stylesheet" />
-  <script src="js/lib/modernizr.js"></script>
-  <script src="js/app.js"></script>
+  <script data-main="js/app" src="js/lib/require.js"></script> 
 </head>
 <body>
   <div class="container">
@@ -25,40 +24,40 @@
         <div class="row">
           <div id="samples" class="col-xs-12 col-sm-2 bpad">
             <div class="row lrpad">
-              <div id="mcdonalds" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="mcdonalds" class="col-xs-1 col-sm-12 sample active">
                 <img class="img-responsive" src="img/previews/mcdonalds.png">
               </div>
-              <div id="microsoft" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="microsoft" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/microsoft.png">
               </div>
-              <div id="hi" class="col-xs-1 col-sm-12 pre-logo active">
+              <div id="hi" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/hi.png">
               </div>
-              <div id="bandshell" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="bandshell" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/bandshell.jpg">
               </div>
-              <div id="adhoc" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="adhoc" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/adhoc.jpg">
               </div>
-              <div id="apple" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="apple" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/apple.png">
               </div>
-              <div id="filmax" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="filmax" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/filmax.png">
               </div>
-              <div id="pizzahut" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="pizzahut" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/pizzahut.png">
               </div>
-              <div id="facebook" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="facebook" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/facebook.png">
               </div>
-              <div id="adidas" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="adidas" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/adidas.png">
               </div>
-              <div id="target" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="target" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/target.png">
               </div>
-              <div id="walls" class="col-xs-1 col-sm-12 pre-logo">
+              <div id="walls" class="col-xs-1 col-sm-12 sample">
                 <img class="img-responsive" src="img/previews/walls.jpg">
               </div>
             </div>
