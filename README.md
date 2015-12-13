@@ -11,4 +11,4 @@ Image depth generator. Searches through the image for outlines, based on found c
 ![Image2](/scr2.jpg)
 
 ### Link
-http://feverart.com/mytri/
+http://ievgenborodin.com/apps/tri/
